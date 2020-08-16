@@ -6,7 +6,7 @@
 
 <!-- --- Social Icons --- -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prodigy4440/)](https://www.linkedin.com/in/prodigy4440/) 
-[![Gmail](https://img.shields.io/badge/Gmail-5522fa?style=flat&logo=Gmail&logoColor=white&link=mailto:prodigy4442@gmail.com)](mailto:prodigy4442@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prodigy4442@gmail.com)](mailto:prodigy4442@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/prodigy4440)](https://twitter.com/prodigy4440) 
 
 
