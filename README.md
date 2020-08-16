@@ -4,6 +4,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-@prodigy4440-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/prodigy4440/)](https://instagram.com/prodigy4440)
 [![Gmail Badge](https://img.shields.io/badge/-prodiy4440-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prodigy4442@gmail.com)](mailto:prodigy4442@gmail.com)
 
+<!-- --- Social Icons --- -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prodigy4440/)](https://www.linkedin.com/in/prodigy4440/) 
+[![Hey Email](https://img.shields.io/badge/Hey-5522fa?style=flat&logo=Hey&logoColor=white&link=mailto:prodigy4442@gmail.com)](mailto:prodigy4442@gmail.com) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/prodigy4440)](https://twitter.com/prodigy4440) 
+
+
 <!--
 **prodigy4440/prodigy4440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
