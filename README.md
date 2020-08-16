@@ -1,5 +1,4 @@
-### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/[prodigy4440])
+### Hi there 👋 I'm Isau AZEEZ
 
 <!--
 **prodigy4440/prodigy4440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
